@@ -1,4 +1,9 @@
-# flutter_adaptive_design
+# Flutter Adaptive Design
+
+- [Adaptive Layouts (The Boring Flutter Development Show, Ep. 45)](https://www.youtube.com/watch?v=n6Awpg1MO6M)
+  > Thanks to Flip and Fitz
+
+## flutter_adaptive_design
 
 A new Flutter project.
 
